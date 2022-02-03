@@ -1,6 +1,6 @@
-.Header-site-header{
-    margin: 20px 0;
-    grid-area:h;
+.Footer-site-footer{
+    margin: 0 0 20px 0;
+    grid-area:f;
     display: flex;
     justify-content: center;
     border: 1px solid black;

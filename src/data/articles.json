@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Titolo 1",
+        "body": "Testo 1",
+        "href": "link1"
+    },
+    {
+        "title": "Titolo 2",
+        "body": "Testo 2",
+        "href": "link2"
+    },
+    {
+        "title": "Titolo 3",
+        "body": "Testo 3",
+        "href": "link3"
+    }
+]
