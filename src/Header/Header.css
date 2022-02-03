@@ -1,0 +1,7 @@
+.Header-site-header{
+    grid-area:h;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    padding: 50px 0;
+}
